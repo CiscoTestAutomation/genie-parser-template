@@ -4,7 +4,7 @@ Genie [cookiecutter](https://cookiecutter.readthedocs.io/en/latest/) parser
 template to be used with the `pyats create parser` command.
 
 
-## Installation & Uage
+## Installation & Usage
 
 ```bash
 
