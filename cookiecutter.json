@@ -1,0 +1,5 @@
+{
+    "project_name": "cookiecutter-pyats-create-parser",
+    "parser_name": "template_parser",
+    "cisco_OS": "IOS"
+}
