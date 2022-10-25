@@ -18,11 +18,11 @@
 #*
 #* Read More:
 #*   For the complete and up-to-date user guide on parsers, visit:
-#*   https://pubhub.devnetcloud.com/media/pyats-packages/docs/genie/cookbooks/index.html#genie-libs-parsers
-#*   https://wiki.cisco.com/display/GENIE/Genie+Parsers+Deepdive
+#*   https://pubhub.devnetcloud.com/media/pyats-development-guide/docs/writeparser/writeparser.html
+#*   https://wiki.cisco.com/display/GENIE/Genie+Parsers+Deepdive - [Employee Access Only]
 #*
 #*   List of available Genie parsers:
-#*   http://wwwin-pyats.cisco.com/cisco-shared/genie/latest/genie_libs/#/parsers
+#*   https://pubhub.devnetcloud.com/media/genie-feature-browser/docs/#/parsers
 #*
 #*******************************************************************************
 
