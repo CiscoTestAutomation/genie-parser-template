@@ -18,7 +18,8 @@
 #*
 #* Read More:
 #*   For the complete and up-to-date user guide on parsers and unittests, visit:
-#*   https://wiki.cisco.com/display/GENIE/Genie+Parsers+Deepdive
+#*   https://pubhub.devnetcloud.com/media/pyats-development-guide/docs/writeparser/writeparser.html#
+#*   https://wiki.cisco.com/display/GENIE/Genie+Parsers+Deepdive - [Employee Access Only]
 #*
 #*******************************************************************************
 
